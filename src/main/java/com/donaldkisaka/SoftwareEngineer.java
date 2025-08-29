@@ -7,9 +7,6 @@ public class SoftwareEngineer {
     private String name;
     private String techStack;
 
-    public SoftwareEngineer() {
-    }
-
     public SoftwareEngineer(Integer id, String name, String techStack) {
         this.id = id;
         this.name = name;
